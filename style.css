@@ -1,0 +1,28 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+body{
+    background-color: crimson;
+color:darkred;
+margin:0px;
+margin-bottom: 100px;
+}
+
+header{
+background-color: ivory;
+color:aliceblue;
+text-align: center;
+padding: 20px;
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+align-items: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
